@@ -1,7 +1,8 @@
 import streamlit as st
 from openai import OpenAI
 
-st.balloons()# Show title and description.
+st.balloons()
+# Show title and description.
 st.title("💬 Prueba de Perla")
 st.write(
     "Esta es una prueba, honestamente no sé muy bien qué estoy haciendo "
